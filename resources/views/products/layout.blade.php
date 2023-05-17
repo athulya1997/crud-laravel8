@@ -10,7 +10,6 @@
 </head>
 <body>
     <div class="container">
-        <h2>Laravel 8 Crud Application</h2>
         <br>
         @yield('content')
     </div>
